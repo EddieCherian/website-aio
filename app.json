@@ -5,3 +5,5 @@
 	"logo": "https://github.com/holy-unblocker/website/raw/branch/master/src/assets/hat.svg",
 	"keywords": ["holyunblocker", "titaniumnetwork"]
 }
+firebase init hosting
+firebase init hosting:github
